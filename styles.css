@@ -1,0 +1,16 @@
+body{
+    margin: 0 auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: aliceblue;
+    width: 100vw;
+}
+div{
+    padding: 15px 20px 15px 20px;
+}
+h1{
+    text-align: center;
+}
+div li{
+    padding: 10px 0px 10px 0px;
+    border-bottom: 1px dashed gray;
+}
